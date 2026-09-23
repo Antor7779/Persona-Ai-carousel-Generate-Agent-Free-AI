@@ -1,0 +1,25 @@
+Title: The 5-Step Framework to Crafting Irresistible Offers
+Vertical: business_coaches_consultants
+Framework: step_by_step
+Slide count: 8
+Dimensions: 1080x1350 (4:5 portrait — current IG carousel best practice)
+Suggested price range: $79-$149
+Generated at: 2026-09-23T00:30:07.934580+00:00
+
+Posting order: upload slide_01 through slide_08 in filename order.
+Alt text for each slide is included in slides_content.json (per-slide "alt_text" field) —
+add it via Instagram's "Advanced settings > Accessibility > Write alt text" per slide.
+
+Design note: backgrounds/ holds the raw pre-text art for each slide if you want to
+redesign without touching the copy. editable.html holds the same copy as real,
+directly-editable HTML text (open in any browser). slides_content.json is the single
+source of truth all of these were generated from.
+
+Illustrator: slide_NN_role.svg opens directly in Adobe Illustrator (File > Open) —
+the background art is a placed image and the headline/body/CTA copy sits on top as
+real, separate, live text objects you can click and retype. There's no public writer
+for Illustrator's proprietary binary .ai format, so this is the honest equivalent —
+Illustrator opens/edits/saves SVG natively, nothing is lost.
+icons/ holds this carousel's actual icon objects as their own small, fully vector,
+reusable .svg files in this carousel's brand colors — drag any of them into another
+design, recolor or rescale freely.

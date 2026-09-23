@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <title>lightbulb</title>
+  <ellipse cx="100" cy="90" rx="48" ry="52" fill="#E8C57A"/><rect x="80" y="120" width="40" height="35" fill="#E8C57A"/><line x1="100" y1="30" x2="44" y2="0" stroke="#FF6B6B" stroke-width="8" stroke-linecap="round"/><line x1="100" y1="30" x2="100" y2="-30" stroke="#FF6B6B" stroke-width="8" stroke-linecap="round"/><line x1="100" y1="30" x2="156" y2="0" stroke="#FF6B6B" stroke-width="8" stroke-linecap="round"/>
+</svg>
